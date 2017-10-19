@@ -1,0 +1,219 @@
+.mRight0 {
+	margin-right: 0 !important;
+}
+
+.mLeft0 {
+	margin-left: 0 !important;
+}
+
+.pleft0 {
+	padding-left: 0;
+}
+
+.pRight0 {
+	padding-left: 0;
+}
+
+.pBoth0 {
+	padding-left: 0;
+}
+
+/* Landscape phones and down */
+@media ( max-width : 480px) {
+	.owl-controls {
+		display: none;
+	}
+	.nomarginLR0 {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+	html {
+		font-size: 100%;
+	}
+	.container {
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+	.top-news-section {
+		display: none;
+	}
+	.top-news-section-inner {
+		max-width: 100%;
+	}
+	.top-news-section .top-news-section-inner .pull-left, .top-news-section .top-news-section-inner .pull-right
+		{
+		width: 100%;
+		float: left !important;
+	}
+	.top-news-section-inner .live-label, .top-news-section-inner .live-video
+		{
+		vertical-align: top;
+	}
+	.top-news-section-inner .live-video {
+		margin-left: 15px;
+		width: 70%;
+		border: 1px solid red;
+	}
+	.top-main-menu .nav>li {
+		float: left;
+		margin-left: 0px;
+		width: 100%;
+		padding: 10px 0px 10px 0;
+	}
+	.navbar-inverse .navbar-toggle {
+		border-color: #ea593c;
+		border-radius: 0;
+	}
+	.top-main-menu li.signup a, .top-main-menu li.login a {
+		text-align: center;
+	}
+	.navbar-inverse .navbar-toggle .icon-bar {
+		background-color: #ea593c;
+	}
+	.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover
+		{
+		background-color: #2d3035;
+	}
+	.navbar-inverse .navbar-toggle:focus .icon-bar, .navbar-inverse .navbar-toggle:hover .icon-bar
+		{
+		background-color: #fff;
+	}
+	/* banner content */
+	.section-ideas {
+		margin-bottom: 25px;
+	}
+	.main-banner {
+		height: 190px;
+	}
+	.sliding-content {
+		max-width: 300px;
+	}
+	.banner-section .banner-content {
+		top: 15px;
+	}
+	.banner-section .banner-download {
+		position: static;
+	}
+	.banner-section .banner-download .row .col-xs-4 {
+		padding: 7px;
+	}
+	.tips-video, .tips-pdf, .tips-subscriprtion {
+		max-width: 100%;
+	}
+	.sliding-content h3 {
+		font-size: 18px;
+	}
+	.sliding-content h2 {
+		font-size: 24px;
+	}
+	.quick-links {
+		line-height: 24px;
+	}
+	.tips-video strong, .tips-pdf strong, .tips-subscriprtion strong {
+		font-size: 16px;
+	}
+	.ideas-title {
+		font-size: 24px;
+		margin: 25px 0;
+	}
+	.ideas-content {
+		padding: 0;
+		margin-bottom: 25px;
+	}
+	.ideas-img {
+		min-height: inherit;
+		margin-bottom: 10px;
+	}
+	.ideas-content h3 {
+		margin: 5px 0;
+		font-size: 18px;
+	}
+	.ideas-content p {
+		font-size: 14px;
+	}
+	#clientfeedback .owl-controls {
+		margin-top: 15px;
+	}
+	/* App Store */
+	.appStore-container {
+		padding: 35px 0 35px 0;
+	}
+	.appStore-container h2 {
+		font-size: 24px;
+	}
+	.download-app {
+		margin: 12px 0;
+		font-size: 14px;
+	}
+	.appStore-container p>a>img {
+		max-width: 120px;
+		width: 100%;
+	}
+	.scheduled-live-videos-title {
+		font-size: 24px;
+	}
+	.live-video-list .live-video {
+		margin-right: 0;
+		margin-bottom: 15px;
+	}
+	.browse-all {
+		margin: 20px 0 20px 0;
+	}
+	.tabbable-line>.nav-tabs>li {
+		margin-right: 10px;
+	}
+	.tabbable-line>.nav-tabs>li.active>a {
+		font-size: 13px;
+	}
+	.trending-videos {
+		padding: 30px 0 0 0;
+	}
+	.trending-title {
+		font-size: 24px;
+	}
+	.tabbable-line>.tab-content {
+		padding: 20px 0 20px 0;
+	}
+	.client-says-title {
+		margin-bottom: 20px;
+		font-size: 24px;
+	}
+	.subscrubtion-section {
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+	.subscrubtion-section-inner {
+		width: 100%;
+		max-width: 100%;
+	}
+	.subscrubtion-section-inner h3 {
+		font-size: 24px;
+	}
+	.subscrubtion-section-inner h4 {
+		font-size: 18px;
+	}
+	.news-glance-title {
+		margin: 25px 0 25px 0;
+	}
+	.subscrubtion-section-inner #subscriptions-form input.form-control {
+		width: 100%
+	}
+	.white-line-button {
+		width: 100%
+	}
+	.current-affiars-title {
+		
+	}
+}
+
+/* Landscape phone to portrait tablet */
+@media ( max-width : 767px) {
+}
+
+/* Portrait tablet to landscape and desktop */
+@media ( min-width : 768px) and (max-width: 979px) {
+}
+
+/* Large desktop */
+@media ( min-width : 1200px) {
+}

@@ -1,0 +1,10 @@
+nav.navbar.navbar-inverse {
+    display: none;
+}.top-news-section {
+    display: none !important;
+}section.footer-section {
+    display: none;
+}
+body {
+background: #ffffff;
+}
