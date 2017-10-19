@@ -1,0 +1,12 @@
+{
+    "name": "contus/hopmedia",
+    "license": "hopmedia",
+    "authors": [
+        {
+            "name": "Justy Shyjin",
+            "email": "justyshyjin.j@contus.in"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

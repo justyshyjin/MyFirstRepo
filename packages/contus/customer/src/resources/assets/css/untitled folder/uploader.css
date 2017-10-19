@@ -1,0 +1,81 @@
+#drag {
+  font-weight: bold;
+  text-align: center;
+  padding: 1em 0;
+  margin: 2em 1em;
+  color: #fff;
+  border: 1px dashed #ccc;
+  background: rgba(9,8,8,0.57);
+  border-radius: 7px;
+  cursor: default;
+}
+#drag.hover {
+  color: #f00;
+  border-color: #f00;
+  border-style: solid;
+  box-shadow: inset 0 3px 4px #888;
+}
+.clsFileUpload .music-upload .clsProgressbar {
+  width: 100%;
+}
+.clsFileUpload .clsProgressbar {
+  width: 70%;
+  margin: 10px auto;
+  padding: 10px;
+  border-radius: 5px;
+}
+.clsFileUpload .clsProgressbar .progress {
+  background: #aaabac;
+  margin: 7px 0 10px;
+  height: 4px;
+}
+.clsFileUpload .clsProgressbar .fa-times {
+  cursor: pointer;
+  float: right;
+  position: relative;
+  top: -230px;
+  left: 13px;
+}
+.clsFileUpload .clsProgressbar .file-stat {
+  font-size: 13px;
+  color: #333;
+  font-weight: bold;
+  border: 1px solid #ddd;
+  padding: 10px 20px 0;
+  background: #fcfcb2;
+  margin: 0 5px 20px;
+  position: relative;
+  width: 220px;
+  height: 250px;
+  float: left;  
+}
+.clsFileUpload .clsProgressbar .file-stat p {
+  margin-bottom: 2px;
+}
+.clsFileUpload .clsProgressbar .file-active {
+  background: #333;
+  font-size: 13px;
+  color: #8dd52b;
+  font-weight: bold;
+  border: 1px solid #8dd52b;
+  padding: 10px 20px 0;
+  margin: 0 0 20px;
+  position: relative;
+}
+.clsFileUpload .clsProgressbar .file-active p {
+  margin: 0;
+}
+.clsFileUpload .clsProgressbar .file-success {
+  background: #f6f6f6;
+  color: #8dd52b;
+  border: 2px solid #8dd52b;
+}
+.clsFileUpload .clsProgressbar .file-error {
+  background: #e2e2e2 !important;
+  color: #e43737;
+  border: 2px solid #e43737 !important;
+  padding: 10px;
+}
+.clsFileUpload .clsProgressbar .file-error .fa-times {
+  top: -43px;
+}

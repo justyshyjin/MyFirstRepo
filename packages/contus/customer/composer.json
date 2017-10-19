@@ -1,0 +1,13 @@
+{
+    "name": "contus/customer",
+    "description": "This package is used to add and manage customers",
+    "license": "Contus",
+    "authors": {
+        "name": "Paul Ebenezer",
+        "email": "paulebenezer.j@contus.in"
+    },
+    "minimum-stability": "dev",
+    "require": {
+        
+    }
+}

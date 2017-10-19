@@ -1,0 +1,12 @@
+{
+    "name": "contus/notification",
+    "description": "This package is used to manage notification for both admin and customers",
+    "authors": [
+        {
+            "name": "Paul Ebenezer",
+            "email": "paulebenezer.j@contus.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
