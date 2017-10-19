@@ -1,0 +1,30 @@
+[class^=lpanel-] {
+    display: inline-block;
+    width: 16px;
+    height: 19px;
+    margin: 0 5px 0 2px;
+    background-image: url(../images/navicons.png);
+    background-repeat: no-repeat;
+    cursor: pointer;
+    vertical-align: middle;
+}
+.lpanel-dashboard{background-position:-25px -23px}
+.lpanel-contacts{background-position:-24px -62px}
+.lpanel-items{background-position:-24px -99px}
+.lpanel-sales-order{background-position:-24px -157px}
+.lpanel-invoice{background-position:-26px -405px}
+.lpanel-packages{background-position:-25px -193px}
+.lpanel-purchase-order{background-position:-26px -228px}
+.lpanel-bill{background-position:-26px -265px}
+.lpanel-reports{width:19px;background-position:-23px -325px}
+.lpanel-integrations{width:17px;background-position:-26px -361px}
+.active .lpanel-dashboard{background-position:-75px -23px}
+.active .lpanel-contacts{background-position:-74px -62px}
+.active .lpanel-items{background-position:-74px -99px}
+.active .lpanel-sales-order{background-position:-74px -157px}
+.active .lpanel-invoice{background-position:-76px -405px}
+.active .lpanel-packages{background-position:-75px -193px}
+.active .lpanel-purchase-order{background-position:-76px -228px}
+.active .lpanel-bill{background-position:-76px -265px}
+.active .lpanel-reports{background-position:-73px -325px}
+.active .lpanel-integrations{background-position:-76px -361px}
