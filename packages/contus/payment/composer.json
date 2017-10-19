@@ -1,0 +1,13 @@
+{
+    "name": "customer/payment",
+    "description": "This package is used to manage all the payment gatways",
+    "license": "Contus",
+    "authors": [
+        {
+            "name": "Paul Ebenezer",
+            "email": "paulebenezer.j@contus.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

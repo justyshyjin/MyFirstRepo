@@ -1,0 +1,81 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Validation Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines used to display in admin user block.
+    |
+    */
+    
+    'general_information' => 'General Information',
+    'basic_information' => 'Some basic information about banner.',
+    'banner' => 'Manage Banners',  
+    'image' => 'Image',
+    'add_new_banner' => 'Add New Banner',
+    'uploaded_section' => 'Uploaded Section',
+    'homepage_section' => 'Homepage Section',
+    'cms_section'=>'CMS Section',
+    'banner_url'=>'Banner Link',
+    'url_placeholder'=>'Banner Link',
+    'select_uploaded_section' => 'Select Uploaded Section',
+    'edit_banner' => 'Edit Banner',
+    'edit_banner' => 'Edit Banner',
+    'title' => 'Title', 
+    'title_placeholder'=>'Eg.Header Banner',
+    'description' => 'Description',
+    'seo_page_title' => 'Seo Page Title',
+    'seo_page_title_placeholder' => 'Seo Page Title',
+    'success' => 'Banner successfully added.',
+    'updated' => 'Banner successfully updated.',
+    'deleted' => 'Banner successfully deleted.',
+    'selected_deleted' => 'Selected Banner successfully deleted.',
+    'status' => 'Status',
+    'active' => 'Active',
+    'inactive' => 'In Active',
+    'manage_banner' => 'Manage Banners',
+    'create_banner' => 'Create Banner',
+    'meta_keyword' => 'Meta Keyword',
+    'meta_keyword_placeholder' => 'Meta Keyword',
+    'meta_description' => 'Meta Description',
+    'meta_description_placeholder' => 'Meta Description',
+    'order'=>'Order',
+    'order_placeholder' => 'Eg.1',
+    'html'=>'Html',
+    'html_placeholder' => 'Text To Display Above Image',
+    'delete_banner' => 'Delete banner',
+    'top' =>'Top',
+    'bottom' => 'Bottom',
+    'header' => 'Header',
+    'footer' => 'Footer',
+    'left' => 'Left',
+    'right' => 'Right',
+    'date' => 'Date',
+    'last_modified' => 'Last Modified',
+    'no_record_found' => 'No Record Found',
+    'not_found' => 'No banners were found',
+    'action' => 'Action',
+    'select_banner_section' => 'Select Banner Section',
+    'banner_section' => 'Banner Section',
+    'cms_page' => 'CMS Page',
+    'select_cms_page' => 'Select CMS Page',
+    'expired_at' => 'Banner Expire Date',
+    'scheduled_at' => 'Banner Scheduled Date',
+    'select_file' => 'Select File',
+    'select_image' => 'Select Image',
+    'change' => 'Change',
+    'remove' => 'Remove',
+    'date_placeholder' => 'Eg.2016-03-22',
+    'select_banner_status' => 'Select Banner Status',
+    'manage_active' => 'Active',
+    'manage_inactive' => 'In Active',
+    'manage_all' => 'All',
+    'created_at' => 'Created on',
+    'enter_title' => 'Enter Banner Title',
+    'select_banner_section' => 'Select Banner Section',
+    'serial_no' => 'S.No.',
+
+];

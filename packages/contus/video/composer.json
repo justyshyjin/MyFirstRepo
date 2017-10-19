@@ -1,0 +1,12 @@
+{
+    "name": "contus/video",
+    "description": "This package is used to manage videos.",
+    "authors": [
+        {
+            "name": "Bilal Shareef",
+            "email": "bilalshareef.h@contus.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

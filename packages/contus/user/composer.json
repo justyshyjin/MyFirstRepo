@@ -1,0 +1,17 @@
+{
+    "name": "contus/user",
+    "description": "package is used to create a base structure and user management",
+    "authors": [
+        {
+            "name": "kesavan",
+            "email": "kesavan.n@contus.in"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Contus\\User\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
