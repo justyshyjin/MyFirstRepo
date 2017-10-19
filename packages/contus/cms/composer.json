@@ -1,0 +1,13 @@
+{
+    "name": "contus/cms",
+    "description": "This package is used to manage all cms contents",
+    "license": "Contus",
+    "authors": [
+        {
+            "name": "Paul Ebenezer",
+            "email": "paulebenezer.j@contus.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

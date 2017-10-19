@@ -1,0 +1,16 @@
+{
+    "name": "contus/base",
+    "description": "Base Model,Controller,Repository Classes",
+    "authors": [
+        {
+            "name": "kesavan",
+            "email": "kesavan.n@contus.in"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Contus\\Base\\": "src/"
+        }
+    },
+    "require": {}
+}
